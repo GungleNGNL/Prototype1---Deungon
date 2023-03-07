@@ -1,0 +1,33 @@
+{
+    "name": "MobileController",
+    "maps": [
+        {
+            "name": "OneHand",
+            "id": "9d55969e-207a-4961-853d-a640c87c2312",
+            "actions": [
+                {
+                    "name": "Move",
+                    "type": "Button",
+                    "id": "7551bd9a-f6b7-46de-8ec2-1dd7604da8c5",
+                    "expectedControlType": "Button",
+                    "processors": "",
+                    "interactions": ""
+                }
+            ],
+            "bindings": [
+                {
+                    "name": "",
+                    "id": "9b045633-df1f-4bc0-a05a-939ab9963462",
+                    "path": "<Pointer>/press",
+                    "interactions": "",
+                    "processors": "",
+                    "groups": "",
+                    "action": "Move",
+                    "isComposite": false,
+                    "isPartOfComposite": false
+                }
+            ]
+        }
+    ],
+    "controlSchemes": []
+}
